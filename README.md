@@ -3,9 +3,13 @@ TAREFA PARA CRIAR EPISODIO DE UM PODCAST COM IA
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante aula na Plataforma Dio [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+#Resultado do Projeto
+
+- [Imagem 1](https://chat.openai.com/) 
+- [Imagem2](https://leonardo.ai/)
+- [Audio Poadcast](https://beta.elevenlabs.io/) 
 
 
 ## 💻 Tecnologias utilizadas no projeto
