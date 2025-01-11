@@ -9,7 +9,7 @@ TAREFA PARA CRIAR EPISODIO DE UM PODCAST COM IA
 
 - [Imagem 1](https://chat.openai.com/) 
 - [Imagem2](https://leonardo.ai/)
-- [Audio Poadcast](https://beta.elevenlabs.io/) 
+- [Audio Poadcast](https://github.com/RUTHDINIZ2/poadcast-piloto/blob/main/ElevenLabs_2025-01-11T20_03_19_Sarah_pre_s55_sb75_se16_b_m2.mp3)
 
 
 ## 💻 Tecnologias utilizadas no projeto
