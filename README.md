@@ -7,8 +7,8 @@ TAREFA PARA CRIAR EPISODIO DE UM PODCAST COM IA
 
 #Resultado do Projeto
 
-- [Imagem 1](https://chat.openai.com/) 
-- [Imagem2](https://leonardo.ai/)
+- [Imagem 1](https://github.com/RUTHDINIZ2/poadcast-piloto/blob/main/Leonardo_Phoenix_10_young_female_podcaster_with_medium_wavy_ha_0%20(1).jpg) 
+- [Imagem2](https://github.com/RUTHDINIZ2/poadcast-piloto/blob/main/Leonardo_Phoenix_10_create_female_knight_character_as_medieval_1.jpg)
 - [Audio Poadcast](https://github.com/RUTHDINIZ2/poadcast-piloto/blob/main/ElevenLabs_2025-01-11T20_03_19_Sarah_pre_s55_sb75_se16_b_m2.mp3)
 
 
@@ -44,6 +44,6 @@ young female podcaster with medium wavy hair smiling with microphone, night city
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
+
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+
